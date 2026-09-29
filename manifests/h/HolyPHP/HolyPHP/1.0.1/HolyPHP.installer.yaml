@@ -13,7 +13,7 @@ InstallModes:
 - silent
 - silentWithProgress
 UpgradeBehavior: install
-ReleaseDate: 2026-09-29
+ReleaseDate: "2026-09-29"
 AppsAndFeaturesEntries:
 - ProductCode: "{4F6E1B7C-9D2A-4E8B-A1C3-5D7F9B2E4A6C}_is1"
 Installers:
